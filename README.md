@@ -12,5 +12,5 @@ Please refer to the information below.
 - Problem 2 :
   - Please cd "your\path\Problem2_FancyForm\fancy-form"
   - Run:
-    npm i
-    npm run dev
+    - npm i
+    - npm run dev
