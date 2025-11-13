@@ -1,0 +1,6 @@
+_Anti Patterns: 
+    + Function getPriority
+
+_Inefficiencies: 
+    + Function sortedBalances 
+    + Variable formattedBalances
